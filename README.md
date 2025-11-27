@@ -46,3 +46,4 @@ STEP 8 : Click on   RESET  button to reset the webpage.
     R2 = minimum we will neglect it
 
   ## Result: 
+ Thus we Measured the unknown inductance using a Maxwell’s Bridge
